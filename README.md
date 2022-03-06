@@ -1,3 +1,7 @@
+# THIS IS A FORK
+Support Alacritty [here](https://github.com/alacritty/alacritty)
+___
+
 <h1 align="center">Alacritty</h1>
 <p align="center">
     <img width="200" alt="Alacritty Logo" src="extra/logo/compat/alacritty-term+scanlines.png">
